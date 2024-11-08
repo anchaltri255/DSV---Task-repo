@@ -1,4 +1,4 @@
-# DSV-Task-repo
+# DSV-Tasks-repo
 
 **Dataset Exploration and Model Development**
 
