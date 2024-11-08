@@ -2,7 +2,9 @@
 
 **Dataset Exploration and Model Development**
 
-**1. Dataset Exploration**
+
+**1. Dataset Exploration:**
+
 To perform dataset exploration on the Iris dataset from sklearn.datasets, we will follow these steps:
 
 Step1:- Load the Iris dataset.
@@ -15,7 +17,8 @@ Step3:- Check the dataset’s shape.
 
 A clear overview of the dataset’s features, their values, and statistical measures to understand data distribution.
 
-**2. Data Splitting**
+**2. Data Splitting:**
+
 To split the Iris dataset into training and testing sets with an 80-20 split, we can use the train_test_split function from sklearn.model_selection. 
 This function will randomly split the data into two sets: one for training the model and one for testing it.
 
@@ -33,7 +36,8 @@ Step4:- Print the number of samples in both the training and testing sets.
 
 Separate training and testing datasets to ensure that the model is evaluated on unseen data, which aids in validating model performance.
 
-**3. Linear Regression**
+**3. Linear Regression:**
+
 To perform linear regression using a dataset with the features YearsExperience and Salary, we can follow these steps:
 
 Step1:- Load the dataset
